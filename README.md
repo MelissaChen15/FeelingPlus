@@ -1,5 +1,5 @@
 # FeelingPlus
-This repo is for FeelingPlus(previously **MagicStory**) project,  AR/VR Ph.D. Training Program Capstone Course 2022, University of Rochester.
+This repo is for FeelingPlus (previously **MagicStory**) project,  AR/VR Ph.D. Training Program Capstone Course 2022, University of Rochester.
 
 ### FeelingPlus: A Design of Augmented Reality on Storybook as a Learning Tool for Young Learners’ Perspective-Taking and Implicit Story Comprehension
 
