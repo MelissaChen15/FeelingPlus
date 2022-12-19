@@ -11,6 +11,8 @@ This project presents a novel system design of an augmented reality (AR) applica
 
 **Undergrand RAs:** Thanothii Ganesh, Robin de Jong, John Moses
 
+You can contact the authors at: meiying.chen@rochester.edu
+
 ### Acknowledgements
 This project used code from following repos:
 
